@@ -1,0 +1,17 @@
+# IDE folders
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Logs and output
+*.log
+.DS_Store
